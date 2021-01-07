@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MadLevel1Task2</string>
+    <string name="f">F</string>
+    <string name="a">A</string>
+    <string name="t">T</string>
+    <string name="submit">SUBMIT</string>
+    <string name="a_b">A ^ B</string>
+    <string name="conjuction_and">CONJUCTION (AND)</string>
+    <string name="b">B</string>
+    <string name="emptyField">Looks like you forgot to give an answer.</string>
+    <string name="showCorrectAnswers">Awesome! you had %d correct answers! </string>
+    <string name="nextTime">Looks like math isnt your best thing..</string>
+</resources>
